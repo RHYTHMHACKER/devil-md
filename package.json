@@ -1,25 +1,25 @@
 {
-  "name": "raganork-md",
+  "name": "devil-md",
   "version": "1.0.0",
-  "description": "Raganork whatsapp bot- Multi device version.",
+  "description": "devil whatsapp bot- Multi device version.",
   "main": "./Raganork/index.js",
   "scripts": {
     "start": "supervisor -s index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/souravkl11/raganork-md.git"
+    "url": "git+https://github.com/RHYTHMHACKER/devil-md.git"
   },
   "keywords": [
     "whatsapp",
     "bot",
     "multi-device"
   ],
-  "author": "Sourav",
-  "developer": "@souravkl11",
+  "author": "RHYTHMHACKER",
+  "developer": "@RHYTHMHACKER",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/souravkl11/raganork-md/issues"
+    "url": "https://github.com/RHYTHMHACKER/devil-md/issues"
   },
   "homepage": "https://github.com/souravkl11/raganork-md#readme",
   "dependencies": {
@@ -29,7 +29,7 @@
     "string-crypto": "2.0.2",
     "mongodb": "^4.3.1",
     "async-g-i-s": "1.0.0",
-    "raganork-bot": "2.0.1",
+    "devil-bot": "2.0.1",
     "sequelize": "^6.13.0",
     "sqlite3": "^5.0.0",
     "supervisor": "^0.12.0"
