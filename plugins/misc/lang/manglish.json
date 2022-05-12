@@ -196,26 +196,26 @@
             "SYSD_DESC": "Shows the system properties."
         },
         "tagall": {
-            "TAGALL_DESC": "Mentions everyone in the group.",
+            "TAGALL_DESC": "Gropill ulla ellavarayyum mention chayyum",
             "ADMIN": "I'm not an admin"
         },
         "updater": {
             "UPDATER_DESC": "Checks for bot updates.",
             "UPDATE": "Already up to date",
-            "UPDATE_START_DESC": "Updates bot.",
+            "UPDATE_START_DESC": "Botina update chayyum.",
             "UPDATING": "Build started",
-            "INVALID_HEROKU": "Heroku app name or API key invalid!",
+            "INVALID_HEROKU": "Heroku app Name Thattayyi anne koduthath!",
             "UPDATED": "Build finished",
-            "AFTER_UPDATE": "Restarting"
+            "AFTER_UPDATE": "Rebooting Changes add akkua..."
         },
         "ping": {
-            "PING_DESC": "Measures your ping.",
-            "URL": "Shorten the long link."
+            "PING_DESC": "Ping nookittu parayam.",
+            "URL": "Link undakkam wait."
         },
         "instagram": {
             "NEED_WORD": "Please enter username of any instagram account.",
             "USAGE": ".insta <userName>",
-            "DESC": "Fetches user informations from instagram",
+            "DESC": "Instagramill ninnum ella details um pokkum",
             "LOADING": "Fetching user data.. please wait.",
             "USERNAME": "Username",
             "NAME": "Name",
